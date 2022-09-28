@@ -9,7 +9,7 @@ function App() {
       .then((movies) => console.log(movies));
   }, []);
 
-  return <h1>Hello from React!</h1>;
+  return <h1>Golden Hill Manangement System</h1>;
 }
 
 export default App;
